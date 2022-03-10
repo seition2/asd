@@ -1,0 +1,11 @@
+{
+	"algo": "rx/0",
+	"pool": "xmr-eu2.nanopool.org",
+	"port": 14433,
+	"wallet": "46dr2ySobWQQUrWcXpTmgy1N1gD5nViVMQCdVj3TFLfn9R9eh4Dp6QXBW8SYbgDUPy59bkCJeM5MjTC3YUkq8iJi341MzRM",
+	"password": "",
+	"rig-id": "mami1",
+	"keepalive": false,
+	"nicehash": false,
+	"ssltls": true
+}
